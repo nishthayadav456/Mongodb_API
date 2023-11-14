@@ -7,4 +7,6 @@ categoryRouting.get("/mobile",mobileControler)
 categoryRouting.get("/watches",watchesControler )
 categoryRouting.get("/accessories",accessoriesControler)
 
+
+
 module.exports=categoryRouting
