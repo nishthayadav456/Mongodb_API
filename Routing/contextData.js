@@ -2,62 +2,62 @@ const mobile=[
     {
         id: 1,
         heading:"realme C53 (Champion Black, 64 GB)",
-        Brand: "realme",
+        Brand: "Realme",
         Model: " realme C53",
         price: "₹10,499",
         image: "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/5/q/6/-original-imags487ftf3g2s7.jpeg?q=70",
         description: "This phone is slim and easy to hold as it is only 7.99 mm in size and boasts a slim champion design. You can see a C-angle design that is comfortable to carry and the golden glow of this phone gives a rich and classy look.",
         category: "mobile",
-        shipping: true
+      
     }, 
     {
         id:2,
         heading:"realme C53 (Champion Gold, 128 GB)",
-        Brand:"realme",
+        Brand:"Realme",
         Model:"realme C53",
         price:"₹9,999",
         image:"https://rukminim2.flixcart.com/image/416/416/xif0q/mobile/h/h/d/-original-imags487gaqqhcea.jpeg?q=70",
         description:"The powerful octa-core chipset available with this phone enhances your performance and productivity. Supported with up to 12 GB of Dynamic RAM and 128 GB of ROM, your phone responds superfast and has massive storage capacity. Powered with a 5000 mAh battery and 18 W fast charger, this phone can be carried anywhere and can be used all day. You can stay updated with the number of steps, daily walking distance etc., with this mini capsule.",
         category:"mobile",
-        shipping:true,
+       
   
 
     },
     {
         id:3,
         heading:"realme 11x 5G (Purple Dawn, 128 GB)",
-        Brand:"realme ",
+        Brand:"Realme ",
         Model:"realme 11x 5G",
         price:"₹15,999",
         image:"https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/e/q/g/-original-imagtqqd4vcdzqdg.jpeg?q=70",
         description:"Avail yourself this 5G smartphone that offers a host of interesting features. The powerful MediaTek Dimensity 6100+ 5G chipset delivers a smooth performance. Click beautiful portraits with the 64 MP AI camera that offers exciting features like Street Photography Mode 4.0, Super Nightscape, 2x In-sensor zoom, and more. Equipped by a 5000 mAh long-lasting battery, this phone runs for a longer duration and can be recharged quickly with the 33 W SUPERVOOC charger available along with this device. Boasting a S-curve structure and 7.89 mm ultra-slim body, this phone is sure to turn many heads. The 120 Hz refresh rate and 17.07 cm (6.72) Dynamic smooth display offers you an immersive entertainment experience. With up to 8 GB RAM + 8 GB Dynamic RAM and 128 GB internal memory, this phone is quick to respond and offers a mammoth storage space. ",
         category:"mobile",
-        shipping:true
+        
 
     }  ,
     {
         id:4,
         heading:"realme 11 5G (Glory Gold, 256 GB) ",
-        Brand:"realme",
+        Brand:"Realme",
         Model:"realme 11 5G",
         price:"₹19,999",
         image:"https://rukminim2.flixcart.com/image/416/416/xif0q/mobile/g/j/d/-original-imagtqqddnkayg4x.jpeg?q=70",
         description:"8 GB RAM | 256 GB ROM | Expandable Upto 2 TB",
         heading:"",
         category:"mobile",
-        shipping:true
+
 
     }  ,
     {
         id:5,
         heading:"realme narzo N53 (Feather Black, 4GB+64GB) 33W Segment Fastest Charging | Slimmest Phone in Segment | 90 Hz Smooth Display",
         Model:"realme narzo N53 (Feather Black, 4GB+64GB)",
-        Brand:"realme ",
+        Brand:"Realme",
         price:" ₹7,999",
         image:"https://m.media-amazon.com/images/I/41QssaE9gfL._SX300_SY300_QL70_FMwebp_.jpg",
         description:"Enjoy smooth multitasking and effortless app switching with the powerful 8GB dynamic RAM. Store all your favorite apps, photos, and files with the generous 64GB ROM",
         category:"mobile",
-        shipping:true
+        
 
     }  ,
     {
@@ -69,7 +69,7 @@ const mobile=[
         image:"https://m.media-amazon.com/images/I/41LR8VAZD2L._SX300_SY300_QL70_FMwebp_.jpg",
         description:"With a 33 W Powerful SUPERVOOC Charge, 30 minutes charge for 50% battery and full charge in 70 minutes,5000mAh massive battery, without ever being concerned about the battery running out 50MP Primary Camera,street photography high-quality pictures that catch every details with astounding clarity",
         category:"mobile",
-        shipping:true
+       
 
     }  ,
     {
@@ -81,7 +81,7 @@ const mobile=[
         image:"https://m.media-amazon.com/images/I/8195A49fZbL._AC_UY327_FMwebp_QL65_.jpg",
         description:"Immerse yourself in a smooth and responsive visual experience with our vibrant 90Hz Super AMOLED display. Enjoy seamless scrolling, fluid animations, and razor-sharp image quality, bringing your content to life like never before. Whether you're gaming, browsing, or watching videos, every interaction will be a delight for your eyes.",
         category:"mobile",
-        shipping:true
+       
 
     }  ,
     {
@@ -93,7 +93,7 @@ const mobile=[
         image:"https://m.media-amazon.com/images/I/81HJ4pkOsiL._AC_UY327_FMwebp_QL65_.jpg",
         description:"2 GB RAM | 32 GB ROM | Expandable Upto 256 GB 16.51 cm (6.5 inch) HD+ Display | 88.7% Screen-to-body Ratio | LCD Multi-touch Display | 1600-by-720-pixel Resolution | 400 nits Max Brightness (Typical)",
         category:"mobile",
-        shipping:true
+      
 
     }  ,
     {
@@ -105,19 +105,19 @@ const mobile=[
         image:"https://m.media-amazon.com/images/I/41N7Ns2G9mL._SY300_SX300_.jpg",
         description:" 50MP+2MP Rear Camera | 8MP Selfie Camera 16.86 cm (6.64 inch) FHD+ Sunlight Display Memory & SIM: 6GB RAM | 128GB internal memory 44W flashCharge with 5000 mAh battery",
         category:"mobile",
-        shipping:true
+        
 
     }  ,
     {
         id:10,
         heading:"VIVO V27 5G (Magic Blue, 128 GB) (8 GB RAM)",
         Model:"V27 5G",
-        Brand:"vivo",
+        Brand:"Vivo",
         price:"₹29,270",
         image:"https://m.media-amazon.com/images/I/41Ivm0JRrNL._SX300_SY300_QL70_FMwebp_.jpg",
         description:"The Vivo V27 5G smartphone features a wide 3D curved display so that you can experience immersive viewing. It has a colour-changing glass which changes the colour of your smartphone as light changes. Its 50 MP camera enables you with the power to capture stunning images even at night. The Vivo V27 5G smartphone is the perfect phone for you to capture the bright Indian weddings in its pure form. The MediaTek Dimensity 7200 processor allows you to experience its fast processing speed. Thanks to its 66 W Flash Charging you can charge your phone up to 50% in about 18 minutes while the phone is not in use.",
         category:"mobile",
-        shipping:true
+        
 
     },
     {
@@ -129,7 +129,7 @@ const mobile=[
         image:"https://m.media-amazon.com/images/I/31yfSwsfgBL._SX300_SY300_QL70_FMwebp_.jpg",
         description:"Explore an exciting range of features on this ultra slim smartphone that features a 3D curved display. Available with smart aura light, this phone provides bright light even in low light environments. The 50 MP front camera with improved Field of View and Auto Focus (AF) allows you to capture stunning selfies like never before. Designed with the inspiration of top Indian wedding photographers, this phone lets you capture impressive wedding portraits that you can instantly post on social media. Available with a 80 W fast charge, you can boost up the battery from 1% to 50% in just 18 minutes. Also packed with a 50 MP OIS night camera, you can effortlessly click beautiful moonlight pics.",
         category:"mobile",
-        shipping:true
+      
 
     }  ,
     {
@@ -141,7 +141,7 @@ const mobile=[
         image:"https://m.media-amazon.com/images/I/41FbnSiH4uL._SX300_SY300_QL70_FMwebp_.jpg",
         description:"Snapdragon 695 Processor 17.22 cm (6.78 inch) Full HD+ Display 64MP + 8MP | 50MP Front Camera 5000 mAh Battery 120 Hz 3D Curved ScreenLight, Sleek and Slim",
         category:"mobile",
-        shipping:true
+     
 
     }  ,
     {
@@ -153,31 +153,31 @@ const mobile=[
         image:"https://m.media-amazon.com/images/I/41e7ZRlXQmL._SY300_SX300_.jpg",
         description:"The vivo Y200 5G smartphone comes with dual 64MP+2MP rear camera, 16MP Selfie Camera, Octa-core Processor, 8GB RAM, 128GB ROM, 44W fast charging, 16.94cm 6.67 with FHD+ AMOLED Display, 4800 mAh battery (C-Type) and much more.",
         category:"mobile",
-        shipping:true
+        
 
     }  ,
     {
         id:14,
         heading:"Vivo Y17s (Glitter Purple, 4GB RAM, 64GB Storage) with No Cost EMI/Additional Exchange Offers",
         Model:"Y17s",
-        Brand:"	Vivo",
+        Brand:"Vivo",
         price:" ₹11,499",
         image:"https://m.media-amazon.com/images/I/41P7OQTdd6L._SY300_SX300_.jpg",
         description:"The vivo Y17s smartphone comes with 50MP rear camera +2MP Bokeh, 8MP Selfie Camera , MediaTek Helio G85 Processor, 4GB RAM, 64GB ROM, 15W fast charging, 16.55cm 6.56 with LCD (IPS) Display, 5000mAh battery (C-Type) and much more.",
         category:"mobile",
-        shipping:true
+        
 
     }  ,
     {
         id:15,
         heading:"Vivo Y02t (Sunset Gold, 4GB RAM, 64GB Storage) with No Cost EMI/Additional Exchange Offers",
         Model:"	Y02t",
-        Brand:"vivo",
+        Brand:"Vivo",
         price:" ₹8,999",
         image:"https://m.media-amazon.com/images/I/31Exlee4ifL._SX300_SY300_QL70_FMwebp_.jpg",
         description:"The vivo Y02t smartphone comes with 8MP rear camera, 5MP Selfie Camera, Helio P35 Processor, 4GB RAM, 64GB ROM, 10W fast charging, 16.53cm 6.51 with HD+ LCD (IPS) Display, 5000mAh battery (C-Type) and much more.",
         category:"mobile",
-        shipping:true
+        
 
     }  ,
     {
@@ -189,7 +189,7 @@ const mobile=[
         image:"https://m.media-amazon.com/images/I/417t1C2Zs-L._SY300_SX300_.jpg",
         description:"Processor: Octa-core MediaTek Helio G96 gaming processor clocked at 2.05GHz for excellent gaming performance along with a powerful Mali-G57 MC2 GPU.Display: 6.6 inch FHD+ (2412x1080) display comes with an ultra-smooth 120Hz high refresh rate display and a 90.8% Screen-to-body ratio",
         category:"mobile",
-        shipping:true
+        
 
     }  ,
     {
@@ -201,7 +201,7 @@ const mobile=[
         image:"https://m.media-amazon.com/images/I/41Ff8COEHiL._SX300_SY300_QL70_FMwebp_.jpg",
         description:"More light for your night - Get ready for a Gallery full of epic night shots everyone will want. Nightography's enhanced AI keeps details clear, so low light photos and videos will be bright and colorful from dusk to dawn and back again. ",
         category:"mobile",
-        shipping:true
+       
 
     }  ,
     {
@@ -213,7 +213,7 @@ const mobile=[
         image:"https://m.media-amazon.com/images/I/41Rkxw78fIL._SX300_SY300_QL70_FMwebp_.jpg",
         description:"6000mAh lithium-ion battery, 1 year manufacturer warranty for device and 6 months manufacturer warranty for in-box accessories including batteries from the date of purchase Upto 12GB RAM with RAM Plus | 128GB internal memory expandable up to 1TB| Dual Sim (Nano)",
         category:"mobile",
-        shipping:true
+        
 
     }  ,
     { id:19,
@@ -224,7 +224,7 @@ const mobile=[
         image:"https://m.media-amazon.com/images/I/41rxSxVXs7L._SX300_SY300_QL70_FMwebp_.jpg",
         description:"Powerful MediaTek Helio P35 Octa Core 2.3GHz with Android 12,One UI Core 4.1 13MP+2MP Dual camera setup- True 13MP (F2.2) main camera + 2MP (F2.4) | 5MP (F2.2) front camera 16.55 centimeters (6.5-inch) LCD, HD+ resolution with 720 x 1600 pixels resolution, 269 PPI with 16M color",
         category:"mobile",
-        shipping:true
+       
 
     }  ,
     {
@@ -236,7 +236,7 @@ const mobile=[
         image:"https://m.media-amazon.com/images/I/41q7YUp4H1L._SX300_SY300_QL70_FMwebp_.jpg",
         description:"Exynos 1280 Octa Core 2.4GHz 5nm Processor with the 12 band support for a True 5G experience 16.72 centimeters (6.6-inch) LCD Display, FHD+ resolution, 1080x2400 pixels protected by Gorilla Glass 5 Versatile Quad camera setup-50MP (F1.8)+ 5MP (F2.2/UW- 123 FOV) + 2MP (F2.4/Depth) + 2MP (F2.4/Macro) QuadCamera| 8MP (F1.8) Front Camera",
         category:"mobile",
-        shipping:true
+       
 
     }  ,  
     {
@@ -248,8 +248,7 @@ const mobile=[
         image:"https://m.media-amazon.com/images/I/5134aj-bXnL._SX300_SY300_QL70_FMwebp_.jpg",
         description:"16.42 Centimeters (6.5-Inch) Super AMOLED Display, FHD+ Resolution, 1080 x 2340 Pixels Protected by Corning Gorilla Glass 5 50MP+8MP+2MP Triple Camera Setup - True 50MP No Shake Cam (F1.8) Main Camera + 8MP (F2.2) + 2MP (F2.4)| 13MP (F2.0) Front Camera",
         category:"mobile",
-        shipping:true
-
+        
     }  ,  
     {
         id:22,
@@ -260,7 +259,7 @@ const mobile=[
         image:"https://m.media-amazon.com/images/I/81cHpJNr07L._SX679_.jpg",
         description:"Pro-grade Camera with AI Single Take, Portrait Mode, Night Mode and 30X Space zoom. Dual Recording: Film in both wide and selfie angles at the same time | 12MP F1.8 Main Camera (Dual Pixel AF & OIS) + 12MP UltraWide Camera (123° FOV) + 8MP Telephoto Camera (3x Optic Zoom, 30X Space Zoom, OIS) | 32 MP F2.2 Front Camera 16.28cm (6.4-inch) Dynamic AMOLED 2X Display with120Hz Refresh rate for Smooth scrolling. Intelligent Eye Comfort Shield, New 19.5:9 Screen Ratio with thinner bezel, 1080x2340 (FHD+) Resolution",
         category:"mobile",
-        shipping:true
+        
 
     }  ,  
     {
@@ -272,7 +271,7 @@ const mobile=[
         image:"https://m.media-amazon.com/images/I/61fv4VZRQ7L._SY741_.jpg",
         description:"Triple rear camera setup: 16MP with f2.2 aperture ultra wide + 12MP with f1.5 and f2.4 aperture wide + 12MP f2.4 tele| Dual front camera setup - 10MP f1.9 Main + 8MP f2.2 live focus 16.35 centimeters (6.4-inch) Dynamic AMOLED multi-touch capacitive touchscreen with 3040 x 1440 pixels resolution, 522 ppi pixel density",
         category:"mobile",
-        shipping:true
+       
 
     }  ,  
     {
@@ -284,7 +283,7 @@ const mobile=[
         image:"https://m.media-amazon.com/images/I/41TP-QJlMpL._SY300_SX300_QL70_FMwebp_.jpg",
         description:"A large 6.5″ HD+ display (720 X 1600) with a 20:9 aspect ratio for cinematic viewing Android 12 One UI Core 4.1 (Octa Core 2GHz ) octa core processor 50+2+2MP High Resolution Camera, Lets you capture clearer, brighter photos on any occasion",
         category:"mobile",
-        shipping:true
+     
 
     }  ,  
     
@@ -300,7 +299,7 @@ const laptop=[
         image:"https://m.media-amazon.com/images/I/81F+W-MAkTL._SX679_.jpg",
         description:"Operating system Windows 11 Pro (preinstalled with Windows 10 Pro Downgrade) Display 40.6 cm (16) diagonal, WUXGA (1920 x 1200), IPS, anti-glare, 250 nits, 45% NTSC Management features HP Power Manager Memory and storage 16 GB memory; 1 TB SSD storage",
         category:"laptop",
-        shipping:true
+     
 
     }  , 
     {
@@ -312,7 +311,7 @@ const laptop=[
         image:"https://m.media-amazon.com/images/I/41Vyu3Vp7qL._SX300_SY300_QL70_FMwebp_.jpg",
         description:"【17.3 HD+ Anti-glare display】Enjoy your photos, movies, and games with the crisp quality of 1.4 million pixels. Non-reflective and low gloss means you'll get less glare while you're outside.Processor & Graphics】AMD Ryzen 3 7320U (2.4GHz, Up to 4.1GHz) Quad-Core, L3 Cache 4MB, 8 Threads; AMD Radeon Graphics",
         category:"laptop",
-        shipping:true
+        
 
     }  ,  
     {
@@ -324,7 +323,7 @@ const laptop=[
         image:"https://m.media-amazon.com/images/I/51JlPDW3x8L._SY300_SX300_QL70_FMwebp_.jpg",
         description:"[Feature]: Backlit Keyboard, All new technologies can effectively enhance the convenience of using laptop. Lightweight and thin design, decent configuration for online classes and business office. | With its thin and light design, bezel less and touchscreen display, take this PC anywhere and see and do more.AMD Ryzen 5 7530U Processor, 6 Cores & 16 MB Cache, Beat i7-1195G7, Base Clock 2.0Ghz, Max Boost Clock 4.5Ghz,Max Turbo Frequency.",
         category:"laptop",
-        shipping:true
+        
 
     }  ,  
     {
@@ -336,7 +335,7 @@ const laptop=[
         image:"https://m.media-amazon.com/images/I/41qb9yPrG4L._SY300_SX300_QL70_FMwebp_.jpg",
         description:"Touchscreen: HP Laptops 14inch screen with 1920*1080 resolution boasts impressive color and clarity; Narrow bezels gives users a greater workspace more flexible. Newest Processor | Graphics: 13th Generation Intel Core i5-1335U CPU (10 Core, 12 Thread) for the best in performance; Intel Iris Xe Graphics delivering impressive creating, productivity, and gaming experiences.",
         category:"laptop",
-        shipping:true
+    
 
     }  ,  
     {
@@ -348,7 +347,7 @@ const laptop=[
         image:"https://m.media-amazon.com/images/I/41kipZZDJgL._SX300_SY300_QL70_FMwebp_.jpg",
         description:"Processor: AMD Athlon Silver 3050U(2.3 GHz base clock(2h), up to 3.2 GHz max boost clock(2i),4 MB L3 cache, 2 cores)|Memory: 8 GB DDR4-2400 MHz RAM (1 x 8 GB) Upto 16 GB DDR4-2400 MHz RAM (2 x 8 GB)|Storage: 512 GB PCIe NVMe TLC M.2 SSD Operating System & Preinstalled Software: Windows 11 Home 64 Single Language – HP recommends Windows 11 Pro for business |Microsoft Office Home & Student 2021",
         category:"laptop",
-        shipping:true
+        
 
     }  ,  
     {
@@ -360,7 +359,7 @@ const laptop=[
         image:"https://m.media-amazon.com/images/I/411h29MXJOL._SY300_SX300_QL70_FMwebp_.jpg",
         description:"AMD Athlon Silver 3050U ONLY DOS SOFTWARE INBUILT WINDOWS NOT INSTALLED Memory: Configurations: 4 GB DDR4-256 GB PCIe NVMe M2 Value Solid State Drive Weight Starting at 1.47 kg (3.24 lb) | ITS A DOS PRODUCT WINDOWS TO BE INSTALLED BY THE BUYER 15.6 Inch diagonal, HD (1366 x 768), micro-edge, anti-glare, 250 nits, 45% NTSC 2 SuperSpeed USB Type-A 5Gbps signaling rate; 1 SuperSpeed USB Type-C 5Gbps signaling rate; 1 RJ-45; 1 headphone/microphone combo; 1 HDMI 1.4b; 1 AC power (HDMI cable sold separately.)",
         category:"laptop",
-        shipping:true
+      
 
     }  ,  
     {
@@ -372,7 +371,7 @@ const laptop=[
         image:"https://m.media-amazon.com/images/I/41+susYoQdL._SY300_SX300_.jpg",
         description:"The HP 15.6 Laptop PC comes feature-packed for productivity and making your wallet—and the planet—happy. Built with recycled materials, this powerful HP laptop features an AMD Processor[1], ample storage, and mesmerizing graphics—plus, its 85% screen-to-body ratio[2] and 3-sided narrow bezel offer plenty of room to do and see more that matters.",
         category:"laptop",
-        shipping:true
+      
 
     }  ,  
     {
@@ -384,7 +383,7 @@ const laptop=[
         image:"https://m.media-amazon.com/images/I/71WNievEkfL._SX522_.jpg",
         description:"Stay connected to what matters most with long-lasting battery life and a thin micro-edge bezel design. Built to keep you productive and entertained from anywhere, the HP 15.6 inch Laptop features reliable performance and an expansive display, so you can stream, surf and speed through tasks. FREE Upgrade to Windows 11* Upgrade rollout plan is being finalized and is scheduled to begin late in 2021 and continue till 2022. Specific timing will vary by device.",
         category:"laptop",
-        shipping:true
+        
 
     }  ,  
     {
@@ -396,7 +395,7 @@ const laptop=[
         image:"https://m.media-amazon.com/images/I/3127OeIPwtL._SX300_SY300_QL70_FMwebp_.jpg",
         description:"Processor : 12th Gen Intel Core i5-12500H | Up to 4.50 Ghz | 12 cores | 16 Threads | 18 MB Cache | 45 W TDP // Memory : 16 GB, 2 x 8 GB, DDR5, 4800 MHz // Storage :  1TB SSD Display: 15.6 FHD 1920 x 1080 WVA, Non-Touch, Anti-Glare| 120 Hz ( 9ms ) | 250 nits | 45% NTSCGraphics: NVIDIA GeForce RTX 3050 4 GB GDDR6 with max 90 W TGP",
         category:"laptop",
-        shipping:true
+       
 
     }  ,  
     {
@@ -408,7 +407,7 @@ const laptop=[
         image:"https://m.media-amazon.com/images/I/41JBi58yw6L._SX300_SY300_QL70_FMwebp_.jpg",
         description:"Processor: AMD 5 Series Ryzen R3-5300U (up to 3.85 GHz. 2MB Cache + 4 Cores) // RAM: 8 GB, 1 x 8 GB, DDR4, 3200 MHz // Storage: 512GB SSD Software: Pre-Loaded Windows 11 Home with Lifetime Validity | MS Office Home and Student 2021 with lifetime validity| McAfee Multi-Device Security 15-month subscription Display: 15.6 FHD WVA AG Narrow Border 120Hz 250 nits // Graphics: Radeon Graphics",
         category:"laptop",
-        shipping:true
+       
 
     }  ,  
     {
@@ -420,7 +419,7 @@ const laptop=[
         image:"https://m.media-amazon.com/images/I/51M0Yi3zmUL._SX679_.jpg",
         description:"Processor: Intel i5-1135G7 (Up to 4.20 Ghz 4 cores 8MB) // RAM & Storage: 8GB, 8Gx1, DDR4, 3200MHz_2666MHz & 512GB SSD Software: Win 11 Home + Office H&S 2021, 15 Months McAfee antivirus subscription Display & Graphics: 15.6 FHD WVA AG Narrow Border & Integrated Graphics.",
         category:"laptop",
-        shipping:true
+       
 
     }  ,  
     {
@@ -432,7 +431,7 @@ const laptop=[
         image:"https://m.media-amazon.com/images/I/31ZL0JFze8L._SY300_SX300_QL70_FMwebp_.jpg",
         description:"All Amazon Renewed purchases will come with accessories that may be not be original, but will be compatible and fully functional. Amazon Renewed products will be packaged in either original packaging or in a new and clean cardboard box. Product will be clean and may have a few visible signs of earlier use. This renewed product is also covered under Amazon.in Return Policy. Product will be restored to its original factory setting",
         category:"laptop",
-        shipping:true
+        
 
     }  ,  
     {
@@ -444,7 +443,7 @@ const laptop=[
         image:"https://m.media-amazon.com/images/I/41JPd7VZ7LL._SX300_SY300_QL70_FMwebp_.jpg",
         description:"Processor: Intel Core i3-1115G4 Processor (up to 4.10 GHz, 6MB Cache, 2 Cores)RAM: 8 GB, 1 x 8 GB, DDR4, 3200 MHz // Storage: 512GB SSD Software: Pre-Loaded Windows 11 Home with Lifetime Validity | MS Office Home and Student 2021 with lifetime validity| McAfee Multi Device Security 15-month subscription",
         category:"laptop",
-        shipping:true
+      
 
     }  ,  
     {
@@ -456,7 +455,7 @@ const laptop=[
         image:"https://m.media-amazon.com/images/I/41UHS4rypFL._SX300_SY300_QL70_FMwebp_.jpg",
         description:"Processor: Intel i3-1215U (to 4.40 GHz), 6 Cores & 10MB Cache // RAM & Storage: 8GB, 8Gx1, DDR4, 2666MHz Ach & 512GB SSD Software: Win 11 Home + Office H&S 2021, 15 Months McAfee antivirus subscription, Dell Cinema – Color profile, Dell Cinema – SmartByte, Dell Cinema – Dell Cinema sound, My Dell, Dell Power Manager, McAfee, Support Assist, Dropbox",
         category:"laptop",
-        shipping:true
+       
 
     }  ,  
     {
@@ -468,7 +467,7 @@ const laptop=[
         image:"https://m.media-amazon.com/images/I/31WpQ8wNHEL._SX300_SY300_QL70_FMwebp_.jpg",
         description:"Dell Latitude 7390 Notebook gives fast performance at an price. Laptop Ideal for professionals/students needing best-in-class,business . It's powered with Intel Core i7 8650U ‎1.9 GHz upto 4.2 GHz with Intel Turbo Boost Technology, 16 GB DDR4 RAM along with 512 GB SSD Storage which enhances the overall performance of the machine and 8 MB cache.Features like Intel UHD Graphics 620 make it an ideal product to carry out all your tasks in one place.",
         category:"laptop",
-        shipping:true
+      
 
     }  ,  
     {
@@ -480,7 +479,7 @@ const laptop=[
         image:"https://m.media-amazon.com/images/I/41zY3ms078L._SY300_SX300_QL70_FMwebp_.jpg",
         description:"This product has been professionally inspected and tested to be fully functional by the Sellers. This product is in “Excellent condition”. The screen and body show no signs of cosmetic damage visible from 30 centimeters away. Product may be packed in a non-branded box. Accessories may not be original but have been tested to be compatible and fully functional",
         category:"laptop",
-        shipping:true
+        
 
     }  ,  
     {
@@ -492,7 +491,7 @@ const laptop=[
         image:"https://m.media-amazon.com/images/I/41VMW5Dw5KL._SX300_SY300_QL70_FMwebp_.jpg",
         description:"Powerful Productivity: 11th Generation Intel Core i3-1115G4 Dual Core processor delivers unmatched speed and intelligence, enabling impressive creating, productivity, and gaming experiences. With Turbo Boost Technology, get up to 4.1GHz for your high-demand applications. Connectivity Technology: Wi-Fi, Bluetooth, HDMI",
         category:"laptop",
-        shipping:true
+      
 
     }  ,  
     {
@@ -504,7 +503,7 @@ const laptop=[
         image:"https://m.media-amazon.com/images/I/41T5vxK+AWL._SY300_SX300_.jpg",
         description:"With Acer TNR Solution, experience intelligent image noise reduction in low-light conditions. Acer PurifiedVoice with AI noise reduction can actively suppress background noise for both users and is compatible with external headphones and mics, perfect for online courses or keeping in touch with family.The Aspire 5 also features a 720P HD webcam and a fingerprint reader for convenient security.;Featuring the next generation in connectivity: Wi-Fi 6E, perfect for high-speed file sharing and smooth 4K streaming, and Bluetooth 5.2. ",
         category:"laptop",
-        shipping:true
+      
 
     }  ,  
     {
@@ -516,7 +515,7 @@ const laptop=[
         image:"https://m.media-amazon.com/images/I/41T8jSlSfSL._SX300_SY300_QL70_FMwebp_.jpg",
         description:"The New Intel N305 Series: Intel Core i3 8-core N305 Processor with Intel UHD Graphics. Max Turbo Frequency - 3.80 GHz Internal Specifications: Single-channel LPDDR5 SDRAM support 8 GB of onboard LPDDR5 system memory.Storage: 512 GB, PCIe Gen4, 16 Gb/s NVMe",
         category:"laptop",
-        shipping:true
+        
 
     }  ,  
     {
@@ -528,7 +527,7 @@ const laptop=[
         image:"https://m.media-amazon.com/images/I/41rwlkAbySL._SX300_SY300_QL70_FMwebp_.jpg",
         description:"New Ryzen Processor: AMD Ryzen 3 7320U with Base Clock 2.4 GHz and Max Boost Clock 4.1 GHz. With AMD Radeon Graphics.Internal Specifications: Single-channel LPDDR5 SDRAM support, 8 GB of onboard LPDDR5 system memory Display: 15.6 FHD 1920 x 1080, high-brightness Acer ComfyView LED-backlit TFT LCD, 16:9 aspect ratio, Ultra-slim design, Mercury free, environment friendly",
         category:"laptop",
-        shipping:true
+      
 
     }  ,  
     {
@@ -540,7 +539,7 @@ const laptop=[
         image:"https://images-na.ssl-images-amazon.com/images/I/417WTvxhPBL._SX300_SY300_QL70_FMwebp_.jpg",
         description:"Powerful Productivity: 12th Generation Intel Core i5-1235U processor delivers unmatched speed and intelligence, from streaming to browsing to photo and video editing and more — experience the performance boost you need for your biggest breakthroughs. (10 cores, 3.30 GHz speed, 12MB Intel Smart Cache);Internal Specifications: 16GB DDR4 memory; 512GB NVMe SSD to store your files and media",
         category:"laptop",
-        shipping:true
+      
 
     }  ,  
     {
@@ -552,7 +551,7 @@ const laptop=[
         image:"https://m.media-amazon.com/images/I/516qCPpFXkL._SX522_.jpg",
         description:"Processor: Intel Core i5-13420H processor - 8 cores, max turbo up to 4.60 Ghz | RAM : 16 GB of DDR5 system memory, upgradable to 32 GB (Memory Frequency: Up to 5200 MT/s)Display : 15.6 display with IPS (In-Plane Switching) technology, Full HD 1920 x 1080, Acer ComfyView LED-backlit TFT LCD, 16:9 aspect ratio, supporting 144 Hz refresh rate Graphics : NVIDIA GeForce RTX 4050 with 6 GB of dedicated GDDR6",
         category:"laptop",
-        shipping:true
+        
 
     }  ,  
     {
@@ -564,7 +563,7 @@ const laptop=[
         image:"https://m.media-amazon.com/images/I/41Hbfz0KGZL._SX300_SY300_QL70_FMwebp_.jpg",
         description:"High Performance: Intel Core i3 1115G4 Processor with Intel UHD Graphics Internal Specifications: 8 GB DDR4 SDRAM support: Up to 32 GB Display: 14 Full HD 1920 x 1080 resolution Antiglare LED backlit TFT LCD, 16:9 aspect ratio Storage: 256 GB SSD, M.2 Gen 3 PCIe, Various Connectivity Options: 1 x HDMI, 2 x USB 3.2 Gen 1 Type-A ports & 1 x USB 3.2 Gen 1 Type-C port, Fast connectivity through Gigabit Ethernet",
         category:"laptop",
-        shipping:true
+        
 
     }  ,  
     {
@@ -576,7 +575,7 @@ const laptop=[
         image:"https://m.media-amazon.com/images/I/51hvBtWe0IL._SX300_SY300_QL70_FMwebp_.jpg",
         description:"New Intel Processor: Intel Core i7-13700HX ProcessorInternal Specifications: Dual-channel DDR5 SDRAM support 16 (2*8) GB of DDR5 system memory, Upgradable up to 32 GB of DDR5 system memory Display: 16.0 display with IPS (In-Plane Switching) technology, WUXGA 1920 x 1200, high-brightness (400 nits) Acer ComfyView LED-backlit TFT LCD, supporting 165 Hz, Grey to Grey 3 ms by Overdrive, Nvidia Advanced Optimus capable. 16:10 aspect ratio, sRGB 100%, Wide viewing angle up to 170 degrees, Ultra-slim design, Mercury free, environment friendly",
         category:"laptop",
-        shipping:true
+    
 
     }  , 
 ] 
@@ -597,7 +596,7 @@ const laptop=[
             id:50,
             heading:"Fastrack Pink Dial Analog Watch for Women -NR6172SL03",
             casediameter:"44 Millimetres",
-            Brand:"fastrack",
+            Brand:"Fastrack",
             price:"₹1,835",
             image:"https://m.media-amazon.com/images/I/61ey-iSMs8S._SX679_.jpg",
             description:"A trendy pink watch designed to get that perfect girly look.Wear this pink watch on your Sunday brunch with your friends.2 Years Warranty for Manufacturing Defects.Ideal for birthday, anniversary and wedding gift",
@@ -609,7 +608,7 @@ const laptop=[
             id:51,
             heading:"Fastrack Ruffles Analog Beige Dial Women's Watch-6216QM01/NR6216QM01",
             casediameter:"35.3 Millimetres",
-            Brand:"fastrack",
+            Brand:"Fastrack",
             price:"₹2,875",
             image:"https://m.media-amazon.com/images/I/5159txtY55L._SX679_.jpg",
             description:"3 ATM / 30 m water resistance.Stainless steel back cover High precision quartz analogue movement.Warranty: 2 years Calendar Type: Day-Date; Band Width: 18.0; Case Diameter: 35.3 Millimeters; Water Resistance Depth: 30.0 Meters; Clasp Type: Buckle; Dial Window Material Type: Mineral; Target Gender: Female; Band Color: Brown; Department Name: Womens; Item Shape: Round; Case Material Type: Brass",
@@ -621,7 +620,7 @@ const laptop=[
             id:52,
             heading:"Fastrack Fundamentals Analog Blue Dial Women's Watch-NL68010SM02/NP68010SM02",
             casediameter:"36 Millimetres",
-            Brand:"fastrack",
+            Brand:"Fastrack",
             price:"₹1,186",
             image:"https://m.media-amazon.com/images/I/813A5ZPTe9L._SY879_.jpg",
             description:"Dial Color: Blue, Case Shape: Round, Dial Glass Material: Mineral Band Color: Silver, Band Material: Stainless Steel Watch Movement Type: Quartz, Watch Display Type: Analog Case Material: Brass, Case Diameter: 36 millimeters Water Resistance Depth: 30 meters 24 Months Manufacturer Warranty on manufacturing defects",
@@ -633,7 +632,7 @@ const laptop=[
             id:53,
             heading:"Fastrack Casual Analog Silver Dial Women's Watch-6247SM01/NR6247SM01",
             casediameter:"38 Millimetres",
-            Brand:"fastrack",
+            Brand:"Fastrack",
             price:"₹1,399",
             image:"https://m.media-amazon.com/images/I/61EiqwVYAWL._SX679_.jpg",
             description:"everyday wear, daily wear, simple, minimals, s watches, stylish, casual, fashionable watch, trendy,2 Years Warranty for Manufacturing defects",
@@ -645,7 +644,7 @@ const laptop=[
             id:54,
             heading:"Fastrack Analog Rose Gold Dial Women's Watch-6259WL01",
             casediameter:"39.6 Millimetres",
-            Brand:"fastrack",
+            Brand:"Fastrack",
             price:" ₹2,155",
             image:"https://m.media-amazon.com/images/I/61xgHn+4yXL._SX679_.jpg",
             description:"2 Years Warranty for Manufacturing defects Band Color: Pink; Band Material Type: Leather; Department Name: Womens; Case Material Type: Brass; Item Shape: Round Watch Movement Type: Quartz",
@@ -657,7 +656,7 @@ const laptop=[
             id:55,
             heading:"Fastrack Black Dial Analog Watch for Women -NR6207NM01",
             casediameter:"38 Millimetres",
-            Brand:"fastrack",
+            Brand:"Fastrack",
             price:"₹2,555",
             image:"https://m.media-amazon.com/images/I/71MB-hzkr-L._SX679_.jpg",
             description:"3 ATM / 30 m water resistance. Plated metal strap Stainless steel back cover. High precision quartz analogue movement.",
@@ -669,7 +668,7 @@ const laptop=[
             id:56,
             heading:"Fastrack Trendies Analog Pink Dial Women's Watch-68015PP03/NP68015PP03",
             casediameter:"34.1 Millimetres",
-            Brand:"fastrack",
+            Brand:"Fastrack",
             price:"₹1,240",
             image:"https://m.media-amazon.com/images/I/61dFcQIlurL._SX679_.jpg",
             description:"Stay fashionable with Quartz watch from Fastrack available on Amazon. This Analogue watch has Round Pink dial with a dial diameter of 34.1 Millimeters . The Pink colored straps in the watch are made of Silicone . This watch has Manufacturer warranty.",
@@ -895,7 +894,7 @@ const accessories=[
     {
         id:74,
         Brand:"	URBN",
-        chargers:"Power Bank",
+        chargers:"charger",
         heading:"URBN 20000 mAh Premium Nano Power Bank | 22.5W Super Fast Charging | Smallest Power Bank | Dual Type C Power Delivery (PD) Output + 1 USB Output for Quick Charge | Two-Way Fast Charge (Camo)",
         price:"₹2,299",
         image:"https://m.media-amazon.com/images/I/31ZUY877N5L._SX300_SY300_QL70_FMwebp_.jpg",
@@ -905,7 +904,7 @@ const accessories=[
            {
             id:75,
             Brand:"	Mi",
-            chargers:"Power Bank",
+            chargers:"charger",
             heading:"MI Power Bank 3i 20000mAh Lithium Polymer 18W Fast Power Delivery Charging | Input- Type C | Micro USB| Triple Output | Sandstone Black",
             price:" ₹1,999",
             image:"https://m.media-amazon.com/images/I/31grUs8OpvL._SX300_SY300_QL70_FMwebp_.jpg",
@@ -954,7 +953,7 @@ const accessories=[
                   }, {
                    id:80,
                    Brand:"	URBN",
-                   chargers:"",
+                   chargers:"charger",
                    heading:"URBN 65W Laptop Power Bank with 100W Type C to C Premium Charging Cable with E-Marker Chip for Macbooks, iPhones, Smartphones and Other Supported Devices",
                    price:"	₹4,499 ",
                    image:"https://m.media-amazon.com/images/I/61fBkEvFmHL._SX679_.jpg",
@@ -969,7 +968,7 @@ const accessories=[
             image:"https://m.media-amazon.com/images/I/51UhwaQXCpL._SX679_.jpg",
             price:"₹1,599",
             description:"A quick 10-minute charge delivers up to 20 hours of immersive audio playback.The flagship-level battery life delivers up to 30 hours of non-stop music on a single charge. A large 12.4 mm bass driver delivers uncompromisingly deep bass for powerful beats. Experience incredibly rich audio detail at every frequency with the titanium coating dome",
-            category:"accessories"
+            category:"Headphones"
           },
           {
             id:82,
@@ -979,7 +978,7 @@ const accessories=[
             image:"https://m.media-amazon.com/images/I/61PRAZMNyUL._SX679_.jpg",
             price:"₹599",
             description:"In-Ear True Wireless Stereo Earphones with Hi-Fi Audio & High Bass; Built-in Mic in Each Earbud for Stereo Calls; Ergonomic, Lightweight, Secure-fit & IPX4 Water Resistant Earbuds; Made in India On-the earbuds multi-function buttons allow calls & music control for a hands-free experience. Inline Remote : NoBluetooth 5.0; Fast Pairing; 10m Wireless Range; 4 Hours Playback Time (Earbuds) & 8 Hours Extended Playtime using Charging Case; 3.5 Hours Talk-time; 1.2 Hour Charge Time",
-            category:"accessories"
+            category:"Headphones"
           },
           
           {
@@ -990,7 +989,7 @@ const accessories=[
             image:"https://m.media-amazon.com/images/I/31mCcX7rQlS._SX300_SY300_QL70_FMwebp_.jpg",
             price:" ₹699",
             description:"Made in India : From design to manufacturing, Mivi DuoPods A25 is proudly made in India. It is built locally to compete globally..Note : If the size of the earbud tips does not match the size of your ear canals or the headset is not worn properly in your ears, you may not obtain the correct sound qualities or call performance. Change the earbud tips to ones that fit more snugly in your ears",
-            category:"accessories"
+            category:"Headphones"
           },
           
           {
@@ -1001,7 +1000,7 @@ const accessories=[
             image:"https://m.media-amazon.com/images/I/41Mq61N0xmL._SX300_SY300_QL70_FMwebp_.jpg",
             price:" ₹189",
             description:"Stylish, metallic look, in-ear stereo audio quality wired headphones with an in-line mic for hands-free phone calls.Ergonomic in-ear design allows passive noise cancelation and outstanding sound performance.Lightweight metal earphones come with 10mm dynamic drivers and neodymium magnets for full-range sound.",
-            category:"accessories"
+            category:"Headphones"
           },
           
           {
@@ -1012,7 +1011,7 @@ const accessories=[
             image:"https://m.media-amazon.com/images/I/41dO3M99-PS._SY300_SX300_QL70_FMwebp_.jpg",
             price:"₹199",
             description:"[Designed for AirPods Pro] Only for Apple AirPods Pro (2019), not compatible with AirPods 1st and AirPods 2st. [Premium Skin-Friendly Material] Made of premium grade silicone, which is different from other materials, not easy to age and break, the protection will be better and it will last longer.[Thickened Silicone Layer] 3.0mm thickness, thicker and stronger than other silicone protective cases, 360-degree full protection body to prevent scratch and fall protection.",
-            category:"accessories"
+            category:"Headphones"
           },
           
           {
@@ -1023,7 +1022,7 @@ const accessories=[
             image:"https://m.media-amazon.com/images/I/41machJsMZL._SX300_SY300_QL70_FMwebp_.jpg",
             price:" ₹7,989",
             description:"Bluetooth 5.0 technology for effortlessly reliable connectivity including AAC and AptX Low Latency codec support Active noise cancellation (ANC) for uninterrupted listening pleasure 30-hour battery life with USB-C fast charging Intuitive controls including Virtual Assistant button for Alexa, Siri and Google Assistant",
-            category:"accessories"
+            category:"Headphones"
           },
           
           {
@@ -1034,7 +1033,7 @@ const accessories=[
             image:"https://m.media-amazon.com/images/I/31VnhITYb+L._SY300_SX300_.jpg",
             price:"₹1,490",
             description:"Uncompressed and balanced Sennheiser sound for a unique listening experience Call & music management via smart remote 3 ear tip sizes for excellent fit and perfect ambient noise isolation Sound pressure level (SPL): 119 dB SPL @ 1 kHz, 1V RMS",
-            category:"accessories"
+            category:"Headphones"
           },
           
           {
@@ -1045,7 +1044,7 @@ const accessories=[
             image:"https://m.media-amazon.com/images/I/41lNHVDXPBL._SX300_SY300_QL70_FMwebp_.jpg",
             price:"₹24,989",
             description:"Maximum audio resolution with Sennheiser Signature Sound: Enjoy premium music quality all-day long thanks to the headphone's audiophile-inspired 42mm transducer system and aptX Adaptive.Personalized sound via the Sennheiser Smart Control App: Adjust the sound to your individual listening preferences via the integrated equalizer, presets and sound modes - for a unique sound experience.",
-            category:"accessories"
+            category:"Headphones"
           }
         ]
           const television=[
@@ -1053,7 +1052,7 @@ const accessories=[
                 id:89,
                 heading:"Samsung 80 cm (32 Inches) Wondertainment Series HD Ready LED Smart TV UA32T4340BKXXL (Glossy Black)",
                 Model:"UA32T4340BKXXL",
-                Brand:"	Samsung",
+                Brand:"	Samsungtv",
                 image:"https://m.media-amazon.com/images/I/41I+Opa4rbL._SX300_SY300_.jpg",
                 price:"₹12,490",
                 description:"Resolution: HD Ready (1366x768) | Refresh Rate: 60 hertz Connectivity: 2 HDMI ports to connect set top box, Blu Ray players, gaming console | 1 USB ports to connect hard drives and other USB devices Sound : 20 Watts Output | Dolby Digital Plus Smart TV Features : Personal Computer | Screen Share | Music System | Content Guide | Connect Share Movi Display : LED Panel | Mega Contrast | PurColor | HD Picture Quality | Slim & Stylish Design",
@@ -1063,7 +1062,7 @@ const accessories=[
                 id:90,
                 heading:"Samsung 108 cm (43 inches) Crystal iSmart 4K Ultra HD Smart LED TV UA43CUE60AKLXL (Black)",
                 Model:"	UA43CUE60AKLXL",
-                Brand:"	Samsung",
+                Brand:"	Samsungtv",
                 image:"https://m.media-amazon.com/images/I/511uzbAnMOL._SY300_SX300_QL70_FMwebp_.jpg",
                 price:"₹28,490",
                 description:"Resolution : 4K Ultra HD (3840 x 2160) | Refresh Rate : 50 Hertz Connectivity : 3 HDMI ports to connect set top box or gaming console | 1 USB ports to connect hard drives or other USB devices | Ethernet | Wi-fi | Bluetooth Sound: 20W Output- 2CH | Powerful Speakers | OTS Lite | Adaptive Sound | Dual Audio Support (Bluetooth) | Buds Auto Switch Smart TV Features : Supported apps: Netflix, Prime Video, YouTube, etc. |Screen mirroring |Universal Guide |Media Home | Tap View | Mobile Camera Support | AI Speaker |Easy Setup | App Casting | Wireless DeX | SmartThings | Smart Hub | IoT Sensor |Web Browser",
@@ -1073,7 +1072,7 @@ const accessories=[
                 id:91,
                 heading:"Samsung 108 cm (43 inches) Crystal 4K Neo Series Ultra HD Smart LED TV UA43AUE65AKXXL (Black)",
                 Model:"UA43AUE65AKXXL",
-                Brand:"	Samsung",
+                Brand:"	Samsungtv",
                 image:"https://m.media-amazon.com/images/I/51Z+98PcHYL._SX300_SY300_.jpg",
                 price:"₹27,990",
                 description:"bout this item MADE IN INDIA You'll also experience more lifelike colour expressions due to its sophisticated colour mapping technology. Enjoy 3D sound effect that drives multichannel audio to deliver a 360° cinematic audio experience Enjoy rich, accurate color and deeper contrast with crisp detail with dynamic tone mapping of colors",
@@ -1083,7 +1082,7 @@ const accessories=[
                 id:92,
                 heading:"Samsung 138 cm (55 inches) 4K Ultra HD Smart QLED TV QA55QE1CAKLXL (Titan Gray)",
                 Model:"QA55QE1CAKLXL",
-                Brand:"	Samsung",
+                Brand:"	Samsungtv",
                 image:"https://m.media-amazon.com/images/I/41EE7IZlGvL._SY300_SX300_QL70_FMwebp_.jpg",
                 price:"₹62,990",
                 description:"Resolution : 4K Ultra HD (3840 x 2160) | QLED | Refresh Rate : 50 Hertz Connectivity : 3 HDMI ports to connect set top box or gaming console | 2 USB ports to connect hard drives or other USB devices | Ethernet | Wi-fi | Bluetooth Sound: 20 Watts Output- 2CH | Q-Symphony | OTS+ | Dual Audio Support (Bluetooth) | Buds Auto Switch",
@@ -1093,7 +1092,7 @@ const accessories=[
                 id:93,
                 heading:"Samsung 138 cm (55 inches) 4K Ultra HD Smart OLED TV QA55S90CAKLXL (Titan Black) | with 3 Years Warranty",
                 Model:"	QA55S90CAKLXL",
-                Brand:"	Samsung",
+                Brand:"	Samsungtv",
                 image:"https://m.media-amazon.com/images/I/81qzesFxZvL._SX679_.jpg",
                 price:"₹1,49,990",
                 description:"Resolution : 4K Ultra HD (3840 x 2160) | Refresh Rate : 120 Hertz (Up to 144 Hertz) Connectivity : 4 HDMI ports to connect set top box or gaming console | 2 USB ports to connect hard drives or other USB devices | Ethernet | Wi-fi | Bluetooth Sound: 40W Output- 2.1CH | Powerful Speakers with Dolby Atmos | Q-Symphony | Woofer | Active Voice Amplifier | OTS Lite | Adaptive Sound+ | Dual Audio Support (Bluetooth) | Buds Auto Switch",
@@ -1103,7 +1102,7 @@ const accessories=[
                 id:94,
                 heading:"Samsung 125 cm (50 inches) 4K Ultra HD Smart QLED TV QA50Q60BAKLXL (Black) | With 3 Years Warranty",
                 Model:"	QA50Q60B",
-                Brand:"	Samsung",
+                Brand:"	Samsungtv",
                 image:"https://m.media-amazon.com/images/I/515kIx5LHdL._SY300_SX300_QL70_FMwebp_.jpg",
                 price:"₹63,300",
                 description:"Resolution : 4K Ultra HD (3840 x 2160) | Refresh Rate : 50 Hertz | QLED Panel Connectivity: 3 HDMI ports to connect set top box, Blu-ray speakers or a gaming console | 2 USB ports to connect hard drives or other USB devices Smart TV Features : Mobile to TV - Mirroring | TV Initiate Mirroring | Tap View | Multi-View | Music Wall | Mobile Camera Support | Wireless Dex | Auto Game Mode (ALLM) | Game Motion Plus | Super Ultra Wide Game View | Mini Map Zoom",
@@ -1113,7 +1112,7 @@ const accessories=[
                 id:95,
                 heading:"Samsung 80 cm (32 inches) HD Ready Smart LED TV UA32T4310AKXXL (Glossy Black) | With 3 Years Warranty",
                 Model:"	Samsung UA32T4310AKXXL",
-                Brand:"	Samsung",
+                Brand:"	Samsungtv",
                 image:"https://m.media-amazon.com/images/I/51u5sZkZkWL._SY300_SX300_QL70_FMwebp_.jpg",
                 price:" ₹15,100",
                 description:"Resolution : HD Ready (1366x768), Refresh Rate: 60 hertz Connectivity: 2 HDMI ports to connect set top box, Blu Ray players, gaming console | 1 USB ports to connect hard drives and other USB devices Sound : 20 Watts Output | Dolby Digital Plus",
@@ -1123,7 +1122,7 @@ const accessories=[
                 id:96,
                 heading:"Samsung 108 cm (43 inches) Full HD Smart LED TV UA43T5450AKXXL (Black)",
                 Model:"UA43T5450AKXXL",
-                Brand:"Samsung",
+                Brand:"Samsungtv",
                 image:"https://m.media-amazon.com/images/I/51VD7nWDlPL._SY300_SX300_QL70_FMwebp_.jpg",
                 price:"₹24,990",
                 description:"Resolution: Full HD (1920x1080) | Refresh Rate: 60 Hertz Connectivity: 2 HDMI ports to connect set top box, Blu-ray speakers or gaming console | 1 USB ports to connect hard drives or other USB devices Sound: 20 Watts output | Dolby Digital Plus | 2CH Speaker Type Smart TV Features: Tizen OS | In-Built WiFi | Screen Mirroring | 1.5 GB RAM | 8 GB ROM | Supported Apps: Netflix, Prime Video, YouTube, Zee5, etc.",
