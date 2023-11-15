@@ -37,13 +37,13 @@ const home=[
     }  ,
     {
         id:4,
-        heading:"realme 11 5G (Glory Gold, 256 GB) ",
+        heading:"Realme 11 5G (Glory Gold, 256 GB) ",
         Brand:"Realme",
         Model:"realme 11 5G",
         price:"₹19,999",
         image:"https://rukminim2.flixcart.com/image/416/416/xif0q/mobile/g/j/d/-original-imagtqqddnkayg4x.jpeg?q=70",
         description:"8 GB RAM | 256 GB ROM | Expandable Upto 2 TB",
-        heading:"",
+       
         category:"mobile",
 
 
