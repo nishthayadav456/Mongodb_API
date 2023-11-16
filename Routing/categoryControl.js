@@ -1,20 +1,12 @@
-const {laptop,mobile,watches, accessories,home,television}=require("./contextData")
-const mobileControler=(req,res)=>{
-return res.send(mobile)
+const { storeSchema } = require("../Model/Model")
+const { home } = require("./contextData")
+
+const postData=async(req,res)=>{
+    const first =await storeSchema.create(home)
+    res.send(first)
 }
-const laptopControler=(req,res)=>{
-return res.send(laptop)
- }
-const watchesControler=(req,res)=>{
- return res.send(watches)
- }
-const TelevisionControler=(req,res)=>{
- return res.send(television)
- }
-const accessoriesControler=(req,res)=>{
- return res.send(accessories)
- }
-const homeControler=(req,res)=>{
- return res.send(home)
- }     
- module.exports={homeControler,accessoriesControler,TelevisionControler,watchesControler,laptopControler,mobileControler}
+const SearchData =async(req,res)=>{
+    const second =await storeSchema.find({})
+    res.send(second)
+}
+module.exports={postData,SearchData }
