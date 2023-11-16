@@ -1,4 +1,5 @@
-const { storeSchema } = require("../Model/Model")
+
+const { storeSchema } = require("../Model/model")
 const { home } = require("./contextData")
 
 const postData=async(req,res)=>{
