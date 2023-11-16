@@ -1194,7 +1194,7 @@ const home=[
                     price:35990,
                     description:"Built-in Google Assistant & Amazon Alexa | Apple Airplay & Homekit | WebOS 22 with User Profiles | Filmmaker Mode, HDR 10 Pro & HLG | Game Optimizer, ALLM, HGIG Mode | Magic Remote with Hot Keys & Voice Commands enabled | Unlimited OTT Apps | 4K Upscaling & AI Sound (Virtual Surround 5.1 up-mix)",
                     category:"television"
-                  },
+                  }
 ]
 const mobile=[
     {
@@ -1774,7 +1774,7 @@ const laptop=[
         category:"laptop",
     
 
-    }  , 
+    }  
 ] 
 //     const watches=[
  
