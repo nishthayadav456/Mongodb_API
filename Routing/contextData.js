@@ -965,7 +965,7 @@ const home=[
                    Model:"Bassbuds Plus",
                    Brand:"PTron",
                    image:"https://m.media-amazon.com/images/I/61PRAZMNyUL._SX679_.jpg",
-                   price:"₹599",
+                   price:599,
                    description:"In-Ear True Wireless Stereo Earphones with Hi-Fi Audio & High Bass; Built-in Mic in Each Earbud for Stereo Calls; Ergonomic, Lightweight, Secure-fit & IPX4 Water Resistant Earbuds; Made in India On-the earbuds multi-function buttons allow calls & music control for a hands-free experience. Inline Remote : NoBluetooth 5.0; Fast Pairing; 10m Wireless Range; 4 Hours Playback Time (Earbuds) & 8 Hours Extended Playtime using Charging Case; 3.5 Hours Talk-time; 1.2 Hour Charge Time",
                    category:"Headphones"
                  },
