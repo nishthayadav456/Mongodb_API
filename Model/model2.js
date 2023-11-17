@@ -12,7 +12,5 @@ const userSchema = mongoose.Schema({
     casediameter: String,
     chargers: String,
 });
-
 const storeModel = mongoose.model("AllData", userSchema);
-
 module.exports = { storeModel };

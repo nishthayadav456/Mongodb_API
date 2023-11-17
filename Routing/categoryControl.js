@@ -16,7 +16,4 @@ const SearchData =async(req,res)=>{
     res.send(second)
     
 }
-
-
-
 module.exports={postData,SearchData }
