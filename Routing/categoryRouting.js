@@ -1,4 +1,4 @@
-const { postData, SearchData, Mobile2 } = require("./categoryControl")
+const { postData, SearchData } = require("./categoryControl")
 
 const categoryRouting=require("express").Router()
 

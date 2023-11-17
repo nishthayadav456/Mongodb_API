@@ -1,9 +1,9 @@
 const {storeModel}=require("../Model/model2")
-const {  mobile } = require("./contextData")
+const {  home } = require("./contextData")
 
 const postData=async(req,res)=>{
     try{
-    const first =await storeModel.create(mobile)
+    const first =await storeModel.create(home)
     res.send(first)
     }
     catch(err){
