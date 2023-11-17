@@ -1,6 +1,6 @@
 const home=[
     {
-        id: 1,
+        id:1,
         heading:"Realme C53 (Champion Black, 64 GB)",
         Brand:"Realme",
         Model:"Realme C53",

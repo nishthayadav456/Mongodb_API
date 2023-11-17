@@ -1,18 +1,22 @@
-
-const { storeSchema } = require("../Model/model")
-const { home, mobile } = require("./contextData")
+const {storeModel}=require("../Model/model2")
+const {  mobile } = require("./contextData")
 
 const postData=async(req,res)=>{
-    const first =await storeSchema.create(home)
+    try{
+    const first =await storeModel.create(mobile)
     res.send(first)
+    }
+    catch(err){
+        res.status(500).send({err:err.message})
+    }
 }
 const SearchData =async(req,res)=>{
-    const second =await storeSchema.find({})
+    
+    const second =await storeModel.find({})
     res.send(second)
-}
-const Mobile2=(req,res)=>{
-    return res.send(mobile)
+    
 }
 
 
-module.exports={postData,SearchData,Mobile2 }
+
+module.exports={postData,SearchData }
