@@ -16,4 +16,18 @@ const SearchData =async(req,res)=>{
     res.send(second)
     
 }
-module.exports={postData,SearchData }
+const searchBar= async (req, res) => {
+    const { Model} = req.query;
+    const queryObj = {};
+    if (Model) {
+      queryObj.Model = { $regex: Model, $options: "i" };
+    }
+    try {
+      const finds = await storeModel.find(queryObj);
+      res.send(finds);
+    } catch (error) {
+      console.error("Error fetching data:", error);
+      res.status(500).send("Internal Server Error");
+    }
+  };
+module.exports={postData,SearchData,searchBar }
