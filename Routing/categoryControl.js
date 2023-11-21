@@ -17,10 +17,10 @@ const SearchData =async(req,res)=>{
     
 }
 const searchBar= async (req, res) => {
-    const { Model} = req.query;
+    const {Brand} = req.query;
     const queryObj = {};
-    if (Model) {
-      queryObj.Model = { $regex: Model, $options: "i" };
+    if (Brand) {
+      queryObj.Brand = { $regex: Brand, $options: "i" };
     }
     try {
       const finds = await storeModel.find(queryObj);
