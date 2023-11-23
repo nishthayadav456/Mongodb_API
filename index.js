@@ -33,7 +33,7 @@ const lineItems =products.map((product)=>({
      line_items:lineItems,
     mode:"payment",
     success_url:"https://timely-sunburst-2b7ddc.netlify.app",
-    cancel_url:"http://localhost:3000/cancel",
+    cancel_url:"https://timely-sunburst-2b7ddc.netlify.app/cart",
 
 
 })
