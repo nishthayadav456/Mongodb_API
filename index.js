@@ -32,7 +32,7 @@ const lineItems =products.map((product)=>({
     payment_method_types:["card"],
      line_items:lineItems,
     mode:"payment",
-    success_url:"http://localhost:3000/successfull",
+    success_url:"https://timely-sunburst-2b7ddc.netlify.app/",
     cancel_url:"http://localhost:3000/cancel",
 
 
