@@ -1,5 +1,6 @@
-const { LoginData, RegisterData } = require("./catControl")
-const catRouting=require("express").Router()
-catRouting.get("/login",LoginData)
-catRouting.get("/register",RegisterData)
-module.exports=catRouting
+const userRoutes = require('express').Router();
+const {Signup,Login} = require('../Router/catControl')
+userRoutes.post('/register',Signup)
+userRoutes.post('/login',Login)
+
+module.exports = userRoutes
